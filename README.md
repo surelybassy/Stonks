@@ -1,2 +1,12 @@
 # Stonks
-Financial Analysis
+Financial Analysis using Python
+
+## Outline
+
+## Code
+
+## Visualisations
+
+## Predictions
+
+
