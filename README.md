@@ -23,4 +23,7 @@ I used Python and Dash library to create a dashboarding tool. The pandas-datarea
 
 ![Dashboard](Images/StonksDashboard.png?raw=true "Dashboard")
 
-
+### Future Developments
+* I would like to add more functionality to the page, using different menus to make it more interactive.
+* Instead of using the pandas-data reader, I want to build my own database to connect to.
+* Continue to develop and style the page using CSS
