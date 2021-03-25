@@ -11,7 +11,7 @@ The project started as a simple data analysis practice, as I wanted to try out s
 
 ## Analysis and Predications
 
-Initial analysis took place using Jupyter Notebook. The Pandas-datatreader was used to pul the data of different companies stock information from Yahoo into a dataframe. Then used Seaborn to visualise the results.
+Initial analysis took place using Jupyter Notebook. The pandas-datatreader was used to pul the data of different companies stock information from Yahoo into a dataframe. Then I used Seaborn to visualise and explore the results.
 
 Using the Long Short-Term Memory (LSTM) technique to build a predictive model from the first 80% of the data set, I would then predict the outcome for the remaining 20% and compare the results to the actual stock prices.
 
