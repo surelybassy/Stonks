@@ -1,5 +1,7 @@
 # Stock Market Analysis
-Data analysis and engineer project
+Data Science and Engineer Project
+*Andrew Ashdown - 2021*
+
 ![Graph](Images/TimeSeriesAMC.png?raw=true "Graph")
 
 ## Outline
@@ -15,6 +17,8 @@ Using the Long Short-Term Memory (LSTM) technique to build a predictive model fr
 ![Predictions](Images/StonksPredictions.png?raw=true "Predictions")
 
 ## Dashboading
+
+I used Python and Dash library to create a dashboarding tool. The pandas-datareader was used again to pull in the data and some calculations were performed using Pandas. Interactive graphs were created using the Plotly Graph Objects library. HTML and CSS were used to style the page.
 
 ![Dashboard](Images/StonksDashboard.png?raw=true "Dashboard")
 
