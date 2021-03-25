@@ -1,5 +1,6 @@
 # Stock Market Analysis
-Data Science and Engineer Project
+## Data Science and Engineer Project
+
 *Andrew Ashdown - 2021*
 
 ![Graph](Images/TimeSeriesAMC.png?raw=true "Graph")
