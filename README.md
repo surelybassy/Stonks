@@ -1,4 +1,4 @@
-# Stock Market Analysis
+# Stock Market Data App
 ## Data Science and Engineer Project
 
 *Andrew Ashdown - 2021*
@@ -7,7 +7,7 @@
 
 ## Outline
 
-The project started as a simple data analysis practice, as I wanted to try out some different techniques for financial analysis and prediction. After the initial analysis, I decided to continue the project with more of a focus on data engineering, using Python with the Dash and Plotly libraries to build a tool that can be deployed in the cloud to provide live information.
+The project started as some data analysis practice, as I wanted to try out some different techniques for financial analysis and prediction. After the initial analysis, I decided to continue the project with more of a focus on data engineering, using Python with the Dash and Plotly libraries to build a tool that can be deployed in the cloud to provide live information.
 
 ## Analysis and Predications
 
