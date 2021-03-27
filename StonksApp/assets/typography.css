@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+    text-shadow: 2px 2px #8f8f8f;
+    font-weight: bold;
+}
+
+h2 {
+  margin: 10px
+}
+
+h3 {
+  font-size: 50px;
+  margin: 0px
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 0.01fr 1.5fr 1.5fr;
+  gap: 10px 10px;
+  grid-template-areas:
+    "KPI1 KPI1 KPI2 KPI3"
+    "Graph1 Graph1 Graph2 Graph2"
+    "Graph3 Graph3 Graph4 Graph4";
+  padding: 0px
+}
+
+.KPI1 { grid-area: KPI1; text-align: center; background: #2b2e4a;}
+.KPI2 { grid-area: KPI2; text-align: center; background: #e84545;}
+.KPI3 { grid-area: KPI3; text-align: center; background: #903749;}
+.KPI4 { grid-area: KPI4; text-align: center; background: #53354a;}
+.Graph1 { grid-area: Graph1;background: #53354a;}
+.Graph2 { grid-area: Graph2;background: #2b2e4a;}
+.Graph3 { grid-area: Graph3;background: #903749;}
+.Graph4 { grid-area: Graph4;background: #903749;}
+.featurebox{ border-radius: 25px 45px 5px 5px; padding: 10px; text-align: center;}
+
+.kpibox{ border-radius: 25px 45px 30px 5px; padding: 0px; text-align: center;}
+
+.stockprice{
+  padding: 0px;
+  margin: 10px
+}
